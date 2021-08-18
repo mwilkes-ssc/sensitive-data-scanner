@@ -1,5 +1,7 @@
 # sensitive-data-scanner #
 
+## SecurityScorecard Experimentation with CISA scanner codebase ##
+
 [![GitHub Build Status](https://github.com/cisagov/sensitive-data-scanner/workflows/build/badge.svg)](https://github.com/cisagov/sensitive-data-scanner/actions)
 
 This is a generic skeleton project that can be used to quickly get a
